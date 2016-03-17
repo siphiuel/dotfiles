@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <root>
  <item>
-    <name>Swap Ctrl+S and Cmd+S</name>
+    <name>Set Cmd+Key to Ctrl+Key in Terminal for commonly used Ctrl combinations</name>
     <identifier>private.filters_cmd</identifier>
     <only>TERMINAL</only>
 
