@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<root>
+ <item>
+    <name>Swap Ctrl+S and Cmd+S</name>
+    <identifier>private.filters_cmd</identifier>
+    <only>TERMINAL</only>
+
+    <autogen>__KeyToKey__ KeyCode::W, ModifierFlag::COMMAND_L, KeyCode::W, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::W, ModifierFlag::COMMAND_R, KeyCode::W, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::E, ModifierFlag::COMMAND_L, KeyCode::E, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::E, ModifierFlag::COMMAND_R, KeyCode::E, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::R, ModifierFlag::COMMAND_L, KeyCode::R, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::R, ModifierFlag::COMMAND_R, KeyCode::R, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::T, ModifierFlag::COMMAND_L, KeyCode::T, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::T, ModifierFlag::COMMAND_R, KeyCode::T, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::Y, ModifierFlag::COMMAND_L, KeyCode::Y, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::Y, ModifierFlag::COMMAND_R, KeyCode::Y, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::U, ModifierFlag::COMMAND_L, KeyCode::U, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::U, ModifierFlag::COMMAND_R, KeyCode::U, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::I, ModifierFlag::COMMAND_L, KeyCode::I, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::I, ModifierFlag::COMMAND_R, KeyCode::I, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::O, ModifierFlag::COMMAND_L, KeyCode::O, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::O, ModifierFlag::COMMAND_R, KeyCode::O, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::P, ModifierFlag::COMMAND_L, KeyCode::P, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::P, ModifierFlag::COMMAND_R, KeyCode::P, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::BRACKET_LEFT, ModifierFlag::COMMAND_L, KeyCode::BRACKET_LEFT, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::BRACKET_LEFT, ModifierFlag::COMMAND_R, KeyCode::BRACKET_LEFT, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::BRACKET_RIGHT, ModifierFlag::COMMAND_L, KeyCode:: BRACKET_RIGHT, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode:: BRACKET_RIGHT, ModifierFlag::COMMAND_R, KeyCode:: BRACKET_RIGHT, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::A, ModifierFlag::COMMAND_L, KeyCode::A, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::A, ModifierFlag::COMMAND_R, KeyCode::A, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::S, ModifierFlag::COMMAND_L, KeyCode::S, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::S, ModifierFlag::COMMAND_R, KeyCode::S, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::D, ModifierFlag::COMMAND_L, KeyCode::D, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::D, ModifierFlag::COMMAND_R, KeyCode::D, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::F, ModifierFlag::COMMAND_L, KeyCode::F, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::F, ModifierFlag::COMMAND_R, KeyCode::F, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::G, ModifierFlag::COMMAND_L, KeyCode::G, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::G, ModifierFlag::COMMAND_R, KeyCode::G, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::H, ModifierFlag::COMMAND_L, KeyCode::H, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::H, ModifierFlag::COMMAND_R, KeyCode::H, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::J, ModifierFlag::COMMAND_L, KeyCode::J, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::J, ModifierFlag::COMMAND_R, KeyCode::J, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::K, ModifierFlag::COMMAND_L, KeyCode::K, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::K, ModifierFlag::COMMAND_R, KeyCode::K, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::L, ModifierFlag::COMMAND_L, KeyCode::L, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::L, ModifierFlag::COMMAND_R, KeyCode::L, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::Z, ModifierFlag::COMMAND_L, KeyCode::Z, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::Z, ModifierFlag::COMMAND_R, KeyCode::Z, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::X, ModifierFlag::COMMAND_L, KeyCode::X, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::X, ModifierFlag::COMMAND_R, KeyCode::X, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::C, ModifierFlag::COMMAND_L, KeyCode::C, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::C, ModifierFlag::COMMAND_R, KeyCode::C, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::V, ModifierFlag::COMMAND_L, KeyCode::V, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::V, ModifierFlag::COMMAND_R, KeyCode::V, ModifierFlag::CONTROL_R</autogen>
+
+    <autogen>__KeyToKey__ KeyCode::B, ModifierFlag::COMMAND_L, KeyCode::B, ModifierFlag::CONTROL_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::B, ModifierFlag::COMMAND_R, KeyCode::B, ModifierFlag::CONTROL_R</autogen>
+  </item>
+</root>
